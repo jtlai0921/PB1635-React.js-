@@ -1,0 +1,5 @@
+﻿{
+  "name": "react-native-device-extension",
+  "version": "0.1",
+  "main": "./RCTDeviceExtension.ios.js"
+}
